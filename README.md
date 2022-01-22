@@ -1,3 +1,5 @@
+iOS widget for https://strongblock.com project.
+
 Original code https://twitter.com/sithnode/status/1476314754096369667?s=21
 
 ### Preview
