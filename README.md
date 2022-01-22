@@ -12,3 +12,7 @@ Original code https://twitter.com/sithnode/status/1476314754096369667?s=21
 - Get API Key and insert into row 3
 
 > Not supported multiple currecies, tested only on iPhone XS
+
+### Preview
+
+![widget](https://user-images.githubusercontent.com/41826142/150638725-aea06204-4c9f-4c7e-a473-50074371493b.png)
