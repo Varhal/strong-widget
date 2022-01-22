@@ -1,3 +1,5 @@
+Original code https://twitter.com/sithnode/status/1476314754096369667?s=21
+
 ### Connect wallet to Debank
 - Download Scriptable App: https://apps.apple.com/us/app/scriptable/id1405459188
 - Edit the first line on next page with your Wallet Addresses separated by semicolon
@@ -10,3 +12,4 @@
 - Get API Key and insert into row 3
 
 > Not supported multiple currecies
+> Tested only on iPhone XS
