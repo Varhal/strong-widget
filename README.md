@@ -11,5 +11,4 @@ Original code https://twitter.com/sithnode/status/1476314754096369667?s=21
 - Insert 3 letter currency code into row 2
 - Get API Key and insert into row 3
 
-> Not supported multiple currecies
-> Tested only on iPhone XS
+> Not supported multiple currecies, tested only on iPhone XS
