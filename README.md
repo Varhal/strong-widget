@@ -1,5 +1,5 @@
 #Connect wallet to Debank
-Download Scriptable App: https://apps.apple.com/us/app/scriptable/id1405459188
+- Download Scriptable App: https://apps.apple.com/us/app/scriptable/id1405459188
 Edit the first line on next page with your Wallet Addresses separated by semicolon
 Copy and paste into Scriptable App and Name file whatever you want like StrongBalance and Click the play icon
 Add Scriptable Widget to Phone Dashboard then select the StrongBalance script you named
