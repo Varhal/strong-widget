@@ -38,8 +38,8 @@ if (config.runsInWidget) {
     const widget = new ListWidget();
  widget.setPadding(16, 16, 16, 16);
 
- const req = new Request ("https://uxpub-wp.s3.eu-west-1.amazonaws.com/widget-bg.png");
- const i = new Request ("https://uxpub-wp.s3.eu-west-1.amazonaws.com/icon.png");
+ const req = new Request ("https://raw.githubusercontent.com/Varhal/strong/main/widget-bg.png");
+ const i = new Request ("https://raw.githubusercontent.com/Varhal/strong/main/icon.png");
 
  let image = await req.loadImage();
  let icon = await i.loadImage();
