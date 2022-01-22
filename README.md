@@ -8,3 +8,5 @@
 - Create FREE account at https://currencylayer.com/
 - Insert 3 letter currency code into row 2
 - Get API Key and insert into row 3
+
+> Not supported multiple currecies
